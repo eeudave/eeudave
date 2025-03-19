@@ -37,7 +37,7 @@ IT Professional with 20+ years of experience managing the full data lifecycle. S
 ### 📫 How to reach me:
 
 - LinkedIn: [www.linkedin.com/in/erik-eudave]
-- Email: [erik.eudave@gmail.com]
+- Email: [erik.eudave@gmail.co]
 
 ---
 
