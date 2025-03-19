@@ -9,5 +9,5 @@
 ---  
 
 ### ✨ Featured Projects  
-- [📊 Data Analytics Projects](../../../Data-Analytics-Projects/) – Behavioral analysis  
-- [📈 Telecommunications Dashboard](../../../Telecom-Dashboards/) – Key metrics for decision-making   
+- [📊 Data Analytics Projects](../../../Data-Analytics-Projects/) – From the Bootcamp at NEOLAND  
+- [📈 Telecommunications Dashboards](../../../Telecom-Dashboards/) – Key metrics for decision-making   
