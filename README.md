@@ -1,23 +1,15 @@
-# Erik Eudave 👨‍💻  
-
-## Data Analyst | Machine Learning Enthusiast
+## Erik Eudave 🤖
 
 ---  
 
 ### 🛠️ Skills  
-- **Languages**: Python, R, SQL, PowerQuery, HTML, JavaScript, CSS  
-- **BI Tools**: PowerBI-DAX, Tableau, Streamlit
-- **Data**: ETL, EDA, Data Cleaning, Statistical Analysis  
-- **ML**: Classification, Regression, Clustering  
-- **Databases**: MS SQL Server, MySQL, Informix  
-- **Tools**: Anaconda, R Strudio, Git, Jupyter Notebooks, DBeaver, Lucid  
+- **Languages**: Python, R, SQL, Power Query, HTML, JavaScript, CSS
+- **Data Analysis**: PowerBI, DAX, Tableau, Streamlit, Machine Learning
+- **Data Engineering**: ETL, EDA, Data Cleaning, Statistical Analysis  
+- **Tools**: Anaconda, RStrudio, Git, Jupyter Notebooks, DBeaver, Lucid  
 
 ---  
 
-### 📊 Featured Projects  
-- [🛍️ Data Analytics Projects](Data-Analytics-Projects) – Behavioral analysis  
-- [📈 Telecommunications Dashboard](Telecom-Dashboards) – Key metrics for decision-making   
-
----  
-
-<-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eeudave&show_icons=true&theme=radical)  -->
+### ✨ Featured Projects  
+- [📊 Data Analytics Projects](Data-Analytics-Projects/) – Behavioral analysis  
+- [📈 Telecommunications Dashboard](Telecom-Dashboards/) – Key metrics for decision-making   
