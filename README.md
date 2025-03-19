@@ -1,7 +1,5 @@
 ## Erik Eudave 🤖
 
----  
-
 ### 🛠️ Skills  
 - **Languages**: Python, R, SQL, Power Query, HTML, JavaScript, CSS
 - **Data Analysis**: PowerBI, DAX, Tableau, Streamlit, Machine Learning
