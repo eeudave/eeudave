@@ -9,5 +9,5 @@
 ---  
 
 ### ✨ Featured Projects  
-- [📊 Data Analytics Projects](../Data-Analytics-Projects/) – Behavioral analysis  
+- [📊 Data Analytics Projects](../../Data-Analytics-Projects/) – Behavioral analysis  
 - [📈 Telecommunications Dashboard](../Telecom-Dashboards/) – Key metrics for decision-making   
