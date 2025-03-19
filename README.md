@@ -9,5 +9,5 @@
 ---  
 
 ### ✨ Featured Projects  
-- [📊 Data Analytics Projects](../../../Data-Analytics-Projects/) – Hands-on experience with Python, R, PowerBI, Tableau, and SQL.  
+- [📊 Data Analytics Projects](../../../Data-Analytics-Projects/) – Hands-on experience with Python, ML, R, PowerBI, Tableau, and SQL.  
 - [📈 Telecommunications Dashboards](../../../Telecom-Dashboards/) – Key metrics for decision-making   
