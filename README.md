@@ -10,5 +10,5 @@
 
 ### ✨ Featured Projects  
 - [📊 Data Analytics Projects](../../../Data-Analytics-Projects/) – Hands-on experience with Python, ML, R, PowerBI, Tableau, and SQL.  
-- [🏆 Final Bootcamp Project](../../../Data-Analytics-Projects/Spotify-Analysis/) – Exploring the relationship between the characteristics of the most popular songs across 73 countries.
+- [🏆 Final Bootcamp Project](../../../Spotify-Analysis/) – Exploring the relationship between the characteristics of the most popular songs across 73 countries.
 - [📈 Telecommunications Dashboards](../../../Telecom-Dashboards/) – Key metrics for decision-making   
