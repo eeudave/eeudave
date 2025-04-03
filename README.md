@@ -12,4 +12,6 @@
 - [📊 Data Analytics Projects](../../../Data-Analytics-Projects/) – Hands-on experience with Python, ML, R, PowerBI, Tableau, and SQL.  
 - [📈 Telecommunications Dashboards](../../../Telecom-Dashboards/) – Key metrics for decision-making   
 - [Visit my Kaggle profile](https://www.kaggle.com/erikeudave)
+[![Kaggle](https://img.icons8.com/ios/50/000000/kaggle.png)](https://www.kaggle.com/erikeudave)
+
 
