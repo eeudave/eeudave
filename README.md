@@ -11,3 +11,5 @@
 ### ✨ Featured Projects  
 - [📊 Data Analytics Projects](../../../Data-Analytics-Projects/) – Hands-on experience with Python, ML, R, PowerBI, Tableau, and SQL.  
 - [📈 Telecommunications Dashboards](../../../Telecom-Dashboards/) – Key metrics for decision-making   
+- My Kaggle Profile  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/erikeudave)
