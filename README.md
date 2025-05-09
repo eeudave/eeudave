@@ -1,10 +1,10 @@
 ## Erik Eudave 🤖
 
-### 🛠️ Skills  
+### 🛠️ Technical Skills  
 - **Languages**: Python, R, SQL, Power Query, HTML, JavaScript, CSS.
 - **Data Analysis**: PowerBI, DAX, Tableau, Streamlit, Machine Learning.
 - **Data Engineering**: ETL, EDA, Data Cleaning, Statistical Analysis.
-- **Tools**: Anaconda, RStrudio, Git, Jupyter Notebooks, MS SQL Server, DBeaver, Lucid.
+- **Tools**: Anaconda, RStudio, Git, Jupyter Notebooks, MS SQL Server, DBeaver, Lucid.
 
 ---  
 
