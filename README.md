@@ -22,6 +22,8 @@
 - [Python – Kaggle](https://www.kaggle.com/learn/certification/erikeudave/python)  
 - [Data Visualization with Python – Kaggle](https://www.kaggle.com/learn/certification/erikeudave/data-visualization) 
 - [MongoDB for SQL Experts – MongoDB](https://learn.mongodb.com/c/1TNcymqqRFyBuo-FqilqDw) 
+- [Introduction to Data Science: Statistical Programming with R – Coursera](https://www.coursera.org/account/accomplishments/verify/LKXVT56S7AGG)  
+- [Python: From Zero to User – Coursera](https://www.coursera.org/account/accomplishments/verify/R9MQB539UE9M)
  
  
 
