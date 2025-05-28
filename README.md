@@ -17,7 +17,7 @@
 
 ---  
 
-## 📚 Completed Courses
+### 📚 Completed Courses
 
 - [Python – Kaggle](https://www.kaggle.com/learn/certification/erikeudave/python)  
 - [MongoDB for SQL Experts – MongoDB](https://learn.mongodb.com/c/1TNcymqqRFyBuo-FqilqDw) 
