@@ -20,8 +20,9 @@
 ### 📚 Completed Courses
 
 - [Python – Kaggle](https://www.kaggle.com/learn/certification/erikeudave/python)  
+- [Data Visualization with Python – Kaggle](https://www.kaggle.com/learn/certification/erikeudave/data-visualization) 
 - [MongoDB for SQL Experts – MongoDB](https://learn.mongodb.com/c/1TNcymqqRFyBuo-FqilqDw) 
-- [Data Visualization with Python – Kaggle](https://www.kaggle.com/learn/certification/erikeudave/data-visualization)  
+ 
  
 
 
