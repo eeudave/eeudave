@@ -17,6 +17,12 @@
 
 ---  
 
+### 🎓 Certifications
+
+- [Data Analytics Bootcamp – Neoland School](https://www.credential.net/a6b1b555-9e58-41d3-882d-52491b6f0ea8#acc.Ms7WL06B)
+
+---  
+
 ### 📚 Completed Courses
 
 - [Data Visualization with Python – Kaggle](https://www.kaggle.com/learn/certification/erikeudave/data-visualization) 
