@@ -1,14 +1,16 @@
 ## Erik Eudave 🤖
 
-### 🛠️ Technical Skills  
-- **Languages**: Python, R, SQL, Power Query, HTML, JavaScript, CSS.
-- **Data Analysis**: PowerBI, DAX, Tableau, Streamlit, Machine Learning.
-- **Data Engineering**: ETL, EDA, Data Cleaning, Statistical Analysis.
-- **Tools**: Anaconda, RStudio, Git, Jupyter Notebooks, MS SQL Server, MongoDB, DBeaver, Lucid.
+### 🛠️ Technical Skills
+
+- **Languages**: Python, R, SQL, HTML, CSS, JavaScript. 
+- **Data Analysis & BI**: PowerBI (Power Query, DAX), Tableau, Streamlit, Machine Learning, Statistics.  
+- **Data Engineering**: ETL, EDA, Data Cleaning, Feature Engineering. 
+- **Tools & Environments**: Jupyter Notebooks, Anaconda, RStudio, Git, GitHub, MS SQL Server, MongoDB, DBeaver, Lucid (ER diagrams).
 
 ---  
 
-### ✨ Featured Projects  
+### ✨ Featured Projects
+
 - [📊 Data Analytics Projects.](../../../Data-Analytics-Projects/) – Hands-on experience with **Python, ML, R, PowerBI, Tableau, and SQL**. 
 - [🎧 Spotify Data Analysis](../../../Data-Analytics-Projects/tree/main/Spotify-Analysis) –  Exploring the relationship between **Audio characteristics** and the **Popularity** of the most popular songs.  
 - [🧀 Cheese: Cheeses of the World!](../../../Cheese/) –  Streamlit app to explore and compare **Cheeses from around the world**.  
